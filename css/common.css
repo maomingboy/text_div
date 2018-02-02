@@ -9,3 +9,11 @@
     display: block;
     margin: 0 auto;
 }
+.div_box_content {
+    width: 150px;
+    height:150px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 25px;
+    border: 1px solid #000000;
+}
